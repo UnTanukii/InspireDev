@@ -12,6 +12,13 @@ Welcome to the **InspireDev** extension! InspireDev delivers daily doses of moti
 
 > **Tip:** Explore the different notification settings and sounds to customize your motivational experience!
 
+## Screenshots
+
+![Quote Example (notification)](https://i.imgur.com/0tEwMxA.png)
+![Quote Example (statusBar right)](https://i.imgur.com/Cb44hZ1.png)
+![Availables sounds (you can disable it)](https://i.imgur.com/RNu4eMi.png)
+![Extension Settings](https://i.imgur.com/0BFLYKM.png)
+
 ## Extension Settings
 
 InspireDev provides several settings to tailor your experience:
@@ -26,38 +33,10 @@ InspireDev provides several settings to tailor your experience:
 - **`inspiredev.soundVolume`**: Adjusts the volume of the notification sound.
 - **`inspiredev.soundName`**: Chooses the notification sound.
 
-## Release Notes
-
-### 1.0.0
-
-- Initial release with core features including daily motivational quotes and status bar integration.
-
-### 1.3.0
-
-- Added a variety of new audio tracks and implemented a language selection system.
-- Fixed versioning error.
-
-### 1.4.0
-
-- Refined language options, updated and added new audio files, and fixed package.json.
-
-### 1.5.0
-
-- Renamed the extension to **InspireDev** to better reflect its purpose.
-
-### 1.6.0
-
-- Added a new logo for the extension.
-
-### 1.7.0
-
-- Added a random sound feature for notifications (`inspiredev.soundName`).
-- Changed the command from "Shuffle Quote" to "InspireDev: Random Quote" in VS Code.
-- Updated the default value for the `inspiredev.quoteFormat` setting.
-
 ## Repository
 
-For more details, source code, or to contribute, visit our GitHub repository: [InspireDev GitHub Repository](https://github.com/UnTanukii/InspireDev). If you find InspireDev useful, please consider giving it a ⭐️ on GitHub!
+For more details, source code, or to contribute, visit my GitHub repository: [InspireDev GitHub Repository](https://github.com/UnTanukii/InspireDev). 
+If you find InspireDev useful, please consider giving it a ⭐️ on GitHub!
 
 ## Contributing
 

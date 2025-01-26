@@ -2,7 +2,7 @@
   "name": "inspiredev",
   "displayName": "InspireDev",
   "description": "InspireDev delivers daily doses of motivation and humor, keeping you inspired and energized throughout your coding journey.",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "icon": "media/icon.png",
   "publisher": "UnTanukii",
   "license": "GPL-3.0-only",
