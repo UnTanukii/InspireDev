@@ -4,7 +4,7 @@
   "description": "InspireDev delivers daily doses of motivation and humor, keeping you inspired and energized throughout your coding journey.",
   "version": "1.8.0",
   "icon": "media/icon.png",
-  "publisher": "tanukii",
+  "publisher": "untanukii",
   "license": "GPL-3.0-only",
   "author": {
     "name": "untanukii",
@@ -138,6 +138,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/UnTanukii/InspireDev"
-  },
-  "note": "I love VS Code MarketPlace ^^"
+  }
 }
