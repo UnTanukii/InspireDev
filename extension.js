@@ -15,6 +15,7 @@ function getSoundName(){
 		'Dark Souls 3 - Boss Theme': 'boss_theme',
 		'Never Give Up Your Waaaaaay': 'never_give_up_japanese',
 		'Just Do It (Shia LaBeouf)': 'just_do_it',
+		'TU TU TU TU, MAX VERSTAPPEN': 'max_verstappen',
 	};
 	if (soundName == 'Random') return soundNames[Object.keys(soundNames)[Math.floor(Math.random() * Object.keys(soundNames).length)]] + '.mp3';
 	return soundNames[soundName] + '.mp3';

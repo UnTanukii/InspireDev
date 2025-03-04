@@ -2,7 +2,7 @@
   "name": "inspiredev",
   "displayName": "InspireDev",
   "description": "InspireDev delivers daily doses of motivation and humor, keeping you inspired and energized throughout your coding journey.",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "icon": "media/icon.png",
   "publisher": "untanukii",
   "license": "GPL-3.0-only",
@@ -111,6 +111,7 @@
             "Dark Souls 3 - Boss Theme",
             "Never Give Up Your Waaaaaay",
             "Just Do It (Shia LaBeouf)",
+            "TU TU TU TU, MAX VERSTAPPEN",
             "Random"
           ],
           "default": "Never Back Down Never What?"
